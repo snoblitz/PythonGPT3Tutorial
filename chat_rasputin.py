@@ -1,4 +1,4 @@
-# This code uses the OpenAI GPT-3 API to generate a conversation between a user and a fictional character, Rasputin
+# This code uses the OpenAI GPT-3 API to generate a conversation between a user and a fictional character from the Destiny 2 universe, Rasputin
 import openai
 import pandas as pd
 
